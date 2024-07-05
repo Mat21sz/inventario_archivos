@@ -1,0 +1,2 @@
+#define MAX_PRODUCTOS 100
+#define MAX_NOMBRE 50
